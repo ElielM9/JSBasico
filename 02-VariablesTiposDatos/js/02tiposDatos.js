@@ -28,4 +28,5 @@ console.log(cadena);
 
 // Booleans
 let boolean = true;
+let boolean2 = new Boolean(true); // Crear objeto de tipo boolean
 console.log(boolean);

@@ -6,8 +6,8 @@ console.log(producto);
 console.log(producto.length);
 
 // Saber si una palabra existe en el string
-console.log(producto.indexOf("Monitor")); // La posicion en la que se encuentra
-console.log(producto.includes("Monitor"));
+console.log(producto.indexOf("Monitor")); // La posicion en la que se encuentra. 
+console.log(producto.includes("Monitor")); // Devuelve true o false. 
 
 // Concatenar texto y template strings
 const precio = "70 USD";

@@ -1,8 +1,8 @@
 // Variables en JS
 
 // Definicion de variables
-var numero1 = 10; // No se recomienda el uso de var
-let numero2 = 20;
+var numero1 = 10; // Es una variable con ámbito global, no se recomienda su uso. 
+let numero2 = 20; // Es una variable con ámbito de bloque. 
 const numero3 = 30; // Es una constante, debe iniciar con un valor y no se puede reasignar.
 
 // Imprimir las variables

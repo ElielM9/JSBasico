@@ -10,6 +10,8 @@ console.log("Numero 1: ", numero1);
 console.log(`Numero 2: ${numero2}`);
 console.log("Numero 3: " + numero3);
 
+// Bloque: Un bloque en JavaScript es todo aquello que esté separado por llaves `{}`.
+
 // Reglas de definicion de variables
 /*
     1- Puede contener letras y símbolos. 

@@ -1,4 +1,6 @@
 // String methods en JS
+// Metodos: Son acciones o, funciones que nos permiten ejecutar algo con el tipo de dato utilizado.
+
 const producto = `Monitor 24 pulgadas`;
 console.log(producto);
 
